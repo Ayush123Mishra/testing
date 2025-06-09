@@ -1,0 +1,45 @@
+.k1
+{
+height: 200px;
+width: 200px;
+border-radius:  50px 50px 50px 50px;
+}
+.k2
+{
+        font-family: 'Times New Roman';
+
+}
+.k3
+{
+    background-color: grey;
+    color: black;
+}
+.row
+
+{
+    width: 900px;
+    border-radius: 10px 10px 10px 10px ;
+    background-color: white;
+}
+.k4
+{
+height: 500px;
+width: 500px;
+}
+.col-9
+{
+            font-family: 'Times New Roman';
+}
+ .b1
+{
+    font-size: large;
+    margin-top: 10px;
+    /* margin-left: 100px; */
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px 10px 10px 10px;
+    background-color: orangered;
+    color: rgb(238, 238, 241);
+    width: 150px;
+     margin-left: 600px; 
+}
