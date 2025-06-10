@@ -1,0 +1,36 @@
+.body{
+    background-color: gray;
+    
+}
+.i1{
+    margin-left: 620px;
+    border-radius: 150px 150px 150px 150px ;
+    width: 70px;
+}
+.b1
+{
+     
+    font-size: large;
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px 10px 10px 10px;
+    background-color: orangered;
+    color: rgb(238, 238, 241);
+    width: 150px;
+    font-weight: bold;
+    color: rgb(255, 255, 255);
+}
+.c1
+{
+    margin-left: 20px;
+    margin-bottom: 10px;
+}
+.a1
+{
+       border-radius: 5px 5px 5px 5px;
+ 
+}
+.a2
+{
+    color: white;
+}

@@ -1,0 +1,27 @@
+.k3
+{
+    background-color: grey;
+    color: black;
+}
+.k2
+{
+        font-family: 'Times New Roman';
+
+}
+.i1
+{
+  margin-left: 350px; 
+}
+.b1
+{
+    font-size: large;
+    margin-top: 20px;
+    /* margin-left: 100px; */
+    border-width: 2px;
+    border-color: black;
+    border-radius: 10px 10px 10px 10px;
+    background-color: orangered;
+    color: rgb(238, 238, 241);
+    width: 150px;
+     margin-left: 600px; 
+}

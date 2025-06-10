@@ -1,0 +1,58 @@
+.body
+{
+    background-color: grey;
+}
+.menu{
+    width: 400px;
+    float: left;
+    height: 70px;
+}
+.img
+{
+    margin-left: 450px;
+    height: 400px;
+    width: 450px;
+}
+.h2{
+    font-family: 'Times New Roman';
+    padding-left: 20px;
+    font-weight: bold;
+    letter-spacing: 2px;
+    color: rgb(255, 255, 255);
+}
+.a1
+{
+    color: black;
+}
+.a2
+{
+    
+        color: black;
+}
+.p
+{
+    color:grey;
+}
+.c
+{
+    color: rgb(0, 0, 0);
+    font-family: 'Times New Roman';
+   font-size: 20px;
+    padding-left: 20px;
+
+}
+.m1
+{
+    background-color:black;
+    color: white;
+   
+    
+}
+.b1
+{
+    margin-top: 5px;
+    border-radius:  20px 20px 20px 20px;
+    color: white ;
+    background-color: black;
+}
+
